@@ -1,0 +1,36 @@
+.main {
+   flex: 1;
+   color: #fff;
+   border-radius: .625rem;
+   padding: 1.25rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+.gridIcon {
+   width: 4.375rem;
+   height: 4.375rem;
+   border-radius: 70%;
+   background-color: rgba(0, 0, 0, .1);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.gridTitle {
+   font-size: 1.4375rem;
+   font-weight: bold;
+   margin-top: .3125rem;
+}
+
+.gridInfo {
+   font-size: .75rem;
+   margin-top: .87rem;
+}
+
+.yuorImc {
+   font-size: 1.0625rem;
+   margin: .625rem 0 3.125rem 0;
+}
