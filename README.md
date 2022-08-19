@@ -15,4 +15,4 @@ npm run start
  ```
 
  ## Link do projeto
- [calculadora de imc](https://calculadora-de-imc-xi.vercel.app/)
+ [calculadora de imc](https://calculadora-de-imc-psi.vercel.app/)
